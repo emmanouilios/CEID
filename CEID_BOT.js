@@ -76,7 +76,7 @@ async function setupslashcommands(){
             description : "Παρακαλώ συμπλήρωσε το @ceid.upatras.gr email σου.",
             options : [
                 {
-                    name : "mail",
+                    name : "st1067417",
                     description : "Γραψε το mail σου (μόνο το μπροστά, πχ st1234567). Μην ξεχάσεις να γράψεις st.",
                     required : true,
                     type : 3
